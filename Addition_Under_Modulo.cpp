@@ -1,4 +1,4 @@
-*/
+/*
 Addition Under Modulo
 You are given two numbers a and b. You need to find the sum of a and b under modulo M.
 Note: Take M as 109+7
@@ -24,7 +24,7 @@ Input:
 Output:
 582344006
 0
-/*
+*/
 
 int sumUnderModulo(long long a,long long b)
 {
