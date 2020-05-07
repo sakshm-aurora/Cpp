@@ -1,4 +1,5 @@
 /*
+GeeksforGeeks :
 Smallest divisible number
 Given a number n the task is to complete the function which returns an integer denoting the smallest number evenly divisible by each number from 1 to n.
 
